@@ -26,9 +26,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Busch Campus Center
-  - line: 604 Bartholomew Road
-  - line: Piscataway, NJ 08854
+  - line: Cook Campus Center
+
 
  # Build settings
 markdown: kramdown
