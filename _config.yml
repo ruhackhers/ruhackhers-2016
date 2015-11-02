@@ -1,14 +1,35 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Hackhers
+email: rutgers.hackhers@gmail.com
+description: "Hackhers is organized for women. At this hackathon, women and men will get involved in learning, planning and developing apps that will foster growth and productivity among women who want to code."
 
-# Build settings
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary:  66ccff #80B3FF
+  secondary:  721794 #6e256e #609732 #FD6E8A #66ccff
+  secondary-dark: 66ccff #A2122F
+  
+
+# Footer settings
+footer:
+  #copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/groups/RutgersWCS/
+  - title: twitter
+    url: https://twitter.com/ruhackhers
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Busch Campus Center
+  - line: 604 Bartholomew Road
+  - line: Piscataway, NJ 08854
+
+ # Build settings
 markdown: kramdown
+permalink: pretty
