@@ -2,8 +2,8 @@
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
+*
 body {
     overflow-x: hidden;
 }
@@ -130,6 +130,11 @@ header .intro-text .skills {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
+    
+    .navbar-fixed-top .navbar {
+     height: 40px;   
+        
+    }
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
@@ -146,6 +151,7 @@ header .intro-text .skills {
         font-size: 1.5em;
     }
 }
+
 
 .navbar {
     text-transform: uppercase;
@@ -443,3 +449,4 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+ */
