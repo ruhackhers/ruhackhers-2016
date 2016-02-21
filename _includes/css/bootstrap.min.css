@@ -127,6 +127,22 @@ header .intro-text .name {
     font-weight: 700;
 }
 
+header .intro-text .name2 {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.75em;
+    font-weight: 700;
+}
+
+header .intro-text .name3 {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
@@ -140,6 +156,14 @@ header .intro-text .skills {
 
     header .intro-text .name {
         font-size: 4.75em;
+    }
+    
+    header .intro-text .name2 {
+        font-size: 2.75em;
+    }
+    
+     header .intro-text .name3 {
+        font-size: 1.75em;
     }
 
     header .intro-text .skills {
