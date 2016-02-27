@@ -20,9 +20,12 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/groups/RutgersWCS/
+    url: https://www.facebook.com/ruhackhers/
   - title: twitter
     url: https://twitter.com/ruhackhers
+  - title: instagram
+    url: https://instagram.com/ruhackhers
+    
 
 # Postal address (add as many lines as necessary)
 address:
